@@ -50,12 +50,14 @@ input_data_qr = ""
 
 rv_file = ''
 
-no_colored =  ""
+no_colored =  "" 
 white_bold =  ""
 blue_bold =   ""
 green_bold =  ""
-red_bold = 	  ""
+red_bold =    ""
 yellow_bold = ""
+
+
 
 
 host = ''
@@ -2442,8 +2444,8 @@ def slogan():
 	print("")
 	print(blue_bold+"******************************************************")
 	print(blue_bold+"* Made by Hadinon                                    *")
-	print(blue_bold+"* find more tools on https://hadinon.itch.io         *")
-	print(blue_bold+"* https://myhqck.000webhostapp.com                   *")
+	print(blue_bold+"* find more tools on https://github.com/H4din0n      *")
+	print(blue_bold+"*                                                    *")
 	print(blue_bold+"******************************************************")
 	print("")
 
