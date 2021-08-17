@@ -1,0 +1,11 @@
+about GlaD Browser:
+
+GlaD Browser is a python based basic browser for low RAM usage computers.
+
+what you need to install:
+
+python3
+
+PyQt5
+
+PyQtWebEngine
