@@ -8,6 +8,6 @@ what you need to install:
 
 python3
 
-PyQt5
+socket
 
-PyQtWebEngine
+random
