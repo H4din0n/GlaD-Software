@@ -1,6 +1,8 @@
-about GlaD Browser:
+about GlaD Denial:
 
-GlaD Browser is a python based basic browser for low RAM usage computers.
+GlaD Denial is a python based hacking tool which is easy to use to host ddos attacks.
+
+Please dont use this tool for anything illegal or you can be held accountable for your actions !
 
 what you need to install:
 
