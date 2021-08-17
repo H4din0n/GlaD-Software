@@ -1,57 +1,12 @@
+about GlaD Compact:
 
+GlaD Hash is a de and encryption tool that includes binary, Qr, Caeser cipher, letter reverser, md5, sha1, sha224, sha256, sha384, sha512, OpenSSL, python hash, shake_256, shake_128, steganography, enigma encryption/decryption, AES, symetric block cipher encryption. ripemd160,
 
-company:
+implemented GlaD Editor (which you can find here:https://hadinon.itch.io/glad-editor ), 
 
-https://docs.camunda.org/cawemo/latest/.env
+implemented GlaD Scanner (which you can find here: https://hadinon.itch.io/glad-scan ),
 
+implemented GlaD Tube (which you can find here: https://hadinon.itch.io/glad-tube ),
+GlaD Chat (which you can find here: https://hadinon.itch.io/glad-chat),
 
-face search:
-
-https://pimeyes.com/en
-
-
-
-graphs:
-
-https://www.visualizingsep.com/#/entries/time/
-
-
-
-company data:
-
-https://docs.camunda.org/cawemo/latest/.env
-
-
-linux.live:
-
-https://www.linux-live.org/
-
-
-
-qr:
-
-https://pageloot.com/qr-code-scanner/#result
-
-
-
-
-
-
-filmzitate:
-
-qrcodescan.in
-
-https://playphrase.me/#/search?q=fuck+a+duck
-
-
-
-
-
-
-
-
-
-
-
-
-
+implemented GlaD Bot (which you can find here: https://hadinon.itch.io/glad-bot ) an EXIF image extractor and an text to jibberish encrypter.
