@@ -1,0 +1,9 @@
+about GlaD Editor:
+
+this is a console editor written in python.
+
+what you need to install:
+
+python3
+
+
