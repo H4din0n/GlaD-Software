@@ -1,0 +1,15 @@
+about GlaD Editor:
+
+this is a python based tool created to scan open ports of an victims ip address originaly made by david bombal
+
+david bombal : https://www.youtube.com/user/ConfigTerm
+
+what you need to install:
+
+python3
+
+socket
+
+re
+
+
