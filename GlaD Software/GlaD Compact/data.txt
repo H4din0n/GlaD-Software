@@ -1,6 +1,7 @@
 about GlaD Compact:
 
-GlaD Hash is a de and encryption tool that includes binary, Qr, Caeser cipher, letter reverser, md5, sha1, sha224, sha256, sha384, sha512, OpenSSL, python hash, shake_256, shake_128, steganography, enigma encryption/decryption, AES, symetric block cipher encryption. ripemd160,
+GlaD Compact
+is a de and encryption tool that includes binary, Qr, Caeser cipher, letter reverser, md5, sha1, sha224, sha256, sha384, sha512, OpenSSL, python hash, shake_256, shake_128, steganography, enigma encryption/decryption, AES, symetric block cipher encryption. ripemd160,
 
 [*] implemented GlaD Editor (which you can find here: https://github.com/H4din0n/GlaD-Software/tree/main/GlaD%20Software/GlaD%20Editor), 
 
