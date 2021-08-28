@@ -1,0 +1,14 @@
+about GlaD Chat:
+
+GlaD Identity is a python script made to make a one-way taging system to mark products with a personalised hash depending on data input which only you can verify using your original data input.
+
+what you need to install:
+
+python3
+
+hashlib
+
+
+
+
+

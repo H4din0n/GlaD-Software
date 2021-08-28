@@ -1,0 +1,14 @@
+about GlaD Chat:
+
+GlaD Chat is a python script made to host a chat server in your local network.
+
+what you need to install:
+
+python3
+
+socket
+
+threading
+
+
+
